@@ -28,13 +28,6 @@
   border-radius: 5px 5px 0 0;
 }
 
-.b {
-  border: 0.5vmin solid rgb(208, 15, 15);
-}
-
-.r {
-  border-radius: 100%;
-}
 
 .hb::before,
 .ha::after {
