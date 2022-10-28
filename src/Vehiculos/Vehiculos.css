@@ -1,0 +1,44 @@
+.botonPer {
+  text-decoration: none;
+  padding: 10px;
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+  background-color: #dca67a;
+  border-radius: 6px;
+  border: 2px solid black;
+  align-content: center;
+  text-align: center;
+}
+.botonPer:hover {
+  color: #000000;
+  background-color: #ffffff;
+}
+
+.estiloDiv {
+  box-shadow: 0 4px 8px 0 rgba(20, 7, 7, 0.661);
+  border-radius: 5px;
+  max-width: 300px;
+  margin: auto;
+  background-color: brown;
+}
+
+.imgStyle {
+  width: 100%;
+  border-radius: 5px 5px 0 0;
+}
+
+.b {
+  border: 0.5vmin solid rgb(208, 15, 15);
+}
+
+.r {
+  border-radius: 100%;
+}
+
+.hb::before,
+.ha::after {
+  content: '';
+  display: block;
+  position: absolute;
+}
